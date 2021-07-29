@@ -1,0 +1,16 @@
+{
+  "name": "checkout",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "tsc && jest ./dist"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "@types/jest": "^26.0.24",
+    "jest": "^27.0.6"
+  }
+}
